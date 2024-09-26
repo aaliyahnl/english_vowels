@@ -21,3 +21,4 @@ Vowels are a group of unobstructed phonemes that are produced between consonants
 
 ## How to Contribute
 
+Interested in contributing to the Speech Accent Archive? Follow [these steps](https://accent.gmu.edu/email.php)!
