@@ -15,5 +15,5 @@ Vowels are a group of unobstructed phonemes that are produced between consonants
 
 - [`Poster PDF`](https://example.com) -
 - [`Formant Values`](https://example.com) -
-- [`Language Recording Folder`](https://example.com) -
+- [`Language Recording Folder`](https://example.com) - Recordings of nine female speakers from the [Speech Accent Archive](https://accent.gmu.edu/)
 - [`Contributing`] - 
