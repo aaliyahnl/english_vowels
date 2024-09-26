@@ -13,9 +13,9 @@ Vowels are a group of unobstructed phonemes that are produced between consonants
 
 ## Included Files
 
-- [`Poster PDF`]([https://example.com](https://github.com/aaliyahnl/english_vowels/blob/main/sigma%20xi%20poster.pdf)) - Copy of poster as it was for Swarthmore Sigma Xi presentation Sept 2024. #brat
+- [`Poster PDF`](https://github.com/aaliyahnl/english_vowels/blob/main/sigma%20xi%20poster.pdf) - Copy of poster as it was for Swarthmore Sigma Xi presentation Sept 2024. #brat
 - [`Formant Values`](https://example.com) -
-- [`Language Recording Folder`](https://example.com) - Recordings of nine female speakers from the [Speech Accent Archive](https://accent.gmu.edu/)
+- [`Language Recording Folder`]() - Recordings of nine female speakers from the [Speech Accent Archive](https://accent.gmu.edu/)
 
 
 ## How to Contribute
