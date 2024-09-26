@@ -14,5 +14,5 @@ Instructions on how to get a copy of the project up and running on your local ma
 
 ### Included Files
 
-- [Poster PDF](https://example.com) - Version `1.0` or higher
+- [`Poster PDF`](https://example.com) - Version `1.0` or higher
 - [Another Tool](https://example.com) - Make sure you have `Another Tool v2.5` installed
