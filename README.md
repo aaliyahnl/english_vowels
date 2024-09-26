@@ -16,7 +16,7 @@ Vowels are a group of unobstructed phonemes that are produced between consonants
 - [`Poster PDF`](https://github.com/aaliyahnl/english_vowels/blob/main/sigma%20xi%20poster.pdf) - Copy of poster as it was for Swarthmore Sigma Xi presentation Sept 2024. #brat
 - [`Formant Values`](https://github.com/aaliyahnl/english_vowels/blob/main/vowel-formants.pdf) - Vowel formants (F1, F2, F3) as recorded in this study
 - [`Language Recording Folder`](https://github.com/aaliyahnl/english_vowels/tree/main/analyzed%20recordings) - Recordings of nine female speakers from the [Speech Accent Archive](https://accent.gmu.edu/)
-- [`Sample Praat Annotation`]() -
+- [`Sample Praat Annotation`](https://github.com/aaliyahnl/english_vowels/blob/main/burmese1.TextGrid) - Praat annotation of vowel segments for burmese1 audio recording
 
 
 ## How to Contribute
