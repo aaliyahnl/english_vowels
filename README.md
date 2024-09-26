@@ -2,9 +2,6 @@
 
 Thank you for your interest in my poster! This repo has more information on the project and extra materials for download.
 
-# Project Title
-
-A brief description of your project and what it aims to achieve.
 
 ## Table of Contents
 - [Abstract](#abstract)
